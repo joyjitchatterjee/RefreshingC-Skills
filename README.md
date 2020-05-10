@@ -1,2 +1,2 @@
-# RefreshingC-Skills
+# RefreshingCPP-Skills
 Mastering C++ for developing sophisticated software programs through Procedural Programming
