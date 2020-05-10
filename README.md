@@ -1,2 +1,2 @@
 # RefreshingCPP-Skills
-Mastering C++ for developing sophisticated software programs through Procedural Programming
+Mastering C++ for developing sophisticated software programs through Procedural Programming. This repo can serve as a refresher to bring back the good old C++ skills to someone who hasn't used the language for years (which is probably sensible in today's time- when most people would be using Python/Java). However, indeed the charm of C++ remains alive, and it has its own merits.
