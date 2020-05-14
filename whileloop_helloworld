@@ -1,0 +1,18 @@
+#include <iostream>
+#include<iomanip>
+using namespace std;
+
+int main()
+
+{   int i = 0;
+    cout<<"Welcome to the while loop demo program!\n";
+    
+    while(i<5)
+    {
+        cout<<"Hello world for the "<<i<<" th "<<"time\n";
+        i++;
+        
+    }
+    
+    return 0;
+}
